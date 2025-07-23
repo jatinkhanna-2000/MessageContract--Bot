@@ -37,7 +37,7 @@ MessageContract/
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/MessageContract.git
+   git clone https://github.com/jatinkhanna-2000/MessageContract.git
    cd MessageContract
 
 2. Install Dependencies
